@@ -1,0 +1,4 @@
+export const ADD_USER = 'App/ADD_USER';
+export const SEARCH_USER_PENDING = 'App/SEARCH_USER_PENDING';
+export const SEARCH_USER_SUCCESS = 'App/SEARCH_USER_SUCCESS';
+export const SEARCH_USER_ERROR = 'App/SEARCH_USER_ERROR';
